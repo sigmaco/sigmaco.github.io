@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
-  # Serial Experimentals Webdriver
+  # Serial Experiments Webdriver
 
   A minimal, responsive, and feature-rich distributed website for technical writing.
 
